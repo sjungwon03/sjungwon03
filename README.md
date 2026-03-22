@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **sjungwon03/sjungwon03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🌱 Interests
+
+클라우드와 인프라 설계 및 운영에 관심을 가지고 있습니다.  
+안정적인 서비스 제공을 위해 구조를 설계하고, 운영 과정에서 발생할 수 있는 문제를 사전에 예방하는 방향을 중요하게 생각합니다.  
+
+최근에는 AI를 활용한 개발 방식인 Vibe Coding에 관심을 가지고 있으며,  
+개발 생산성을 높이면서도 시스템 구조를 이해하고 설계하는 균형 잡힌 개발 방식을 탐구하고 있습니다.
 
 ## 🛠 Tech Stack
 
