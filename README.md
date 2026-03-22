@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 최근에는 AI를 활용한 개발 방식인 Vibe Coding에 관심을 가지고 있으며,  
 개발 생산성을 높이면서도 시스템 구조를 이해하고 설계하는 균형 잡힌 개발 방식을 탐구하고 있습니다.
 
+---
+
 ## 🛠 Tech Stack
 
 | Category | Stack |
@@ -33,6 +35,8 @@ Here are some ideas to get you started:
 | 🤖 AI Tools | ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge) ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge) ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge) |
 | 🛠 Tools | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 
+---
+
 ## 🏅 Certifications
 
 ### 📌 Badges
@@ -42,12 +46,12 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/c3392494-6836-4ab7-9376-698b420c522a/public_url"><img src="https://images.credly.com/size/220x220/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" width="150"/></a>
 </p>
 
----
-
 ### 📄 Certificates
 
 - 🏅 정보처리기사 | 한국산업인력공단 | 2025.06
 - 🏅 SQL 개발자(SQLD) | 한국데이터산업진흥원 | 2025.04
+
+---
 
 ## 🎓 Education
 
