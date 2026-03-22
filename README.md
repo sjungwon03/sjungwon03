@@ -60,3 +60,7 @@ Here are some ideas to get you started:
 
 - ☁️ **KOSA Cloud Engineering**  
   `2026.02 – 2026.05`
+---
+## 🏆 Awards
+
+- 🥉 **세종대학교 제7회 SW코딩경시대회 3등**
