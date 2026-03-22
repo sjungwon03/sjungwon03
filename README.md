@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 ## 🎓 Education
 
-- 🎓 **Sejong University**  
+- 🎓 **세종대학교 컴퓨터공학과**  
   `2017.03 – 2026.08`
 
-- ☁️ **KOSA Cloud Engineering**  
+- ☁️ **KOSA 클라우드엔지니어링 과정**  
   `2026.02 – 2026.05`
 ---
 ## 🏆 Awards
