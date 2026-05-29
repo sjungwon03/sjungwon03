@@ -60,6 +60,9 @@ Here are some ideas to get you started:
 
 - ☁️ **KOSA 클라우드엔지니어링 과정**  
   `2026.02 – 2026.05`
+
+- ☁️ **새싹 AWS와 AI를 활용한 MSA 기반 웹 서비스 개발**
+  `2026.05 - NOW`
 ---
 ## 🏆 Awards
 
