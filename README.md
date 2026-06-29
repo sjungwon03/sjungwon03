@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## 🌱 Interests
 
-클라우드와 인프라 설계 및 운영에 관심을 가지고 있습니다.  
+현재 하네스 엔지니어링 및 바이브 코딩에 관심을 가지고 있습니다.  
 
 ---
 
