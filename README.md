@@ -57,3 +57,8 @@ Here are some ideas to get you started:
 - ☁️ **새싹 AWS와 AI를 활용한 MSA 기반 웹 서비스 개발**   
   `2026.05 - NOW`
 ---
+
+## 🎯 Activities
+
+- 🌱 오픈소스 컨트리뷰션 아카데미 (멘티)
+  `2026.07 – NOW`
