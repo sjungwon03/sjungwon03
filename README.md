@@ -60,5 +60,5 @@ Here are some ideas to get you started:
 
 ## 🎯 Activities
 
-- 🌱 오픈소스 컨트리뷰션 아카데미 (멘티)
+- 🌱 오픈소스 컨트리뷰션 아카데미 (Node.js 멘티)
   `2026.07 – NOW`
